@@ -6,4 +6,4 @@ Grupo:
 - Juliene Witória Viana Barros Araújo
 - Leonardo Castro da Silva
 - Rahilson Dias Costa
-- Selthon Noronha 
+- Selthon Noronha de Moura
